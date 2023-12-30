@@ -1,0 +1,11 @@
+Path A to B is closed due to high constructions.
+Path B to D is open.
+Path B to M is open.
+Path C to I is open.
+Path E to F is open.
+Path G to I is closed due to medics helicopter.
+Path K to D is closed due to foggy.
+Path K to I is closed due to foggy.
+Path K to L is closed due to foggy.
+Path L to O is open.
+Path N to M is open.

@@ -1,0 +1,13 @@
+A to B = Infinity
+B to C = 20.0
+B to D = 0.9422659428331456
+B to M = 0.6235109788137472
+C to A = 5.0
+C to I = 0.994769445346452
+E to F = 0.6419659034758048
+G to I = Infinity
+K to D = Infinity
+K to I = Infinity
+K to L = Infinity
+L to O = 0.5309679931986604
+N to M = 0.7872959800465084

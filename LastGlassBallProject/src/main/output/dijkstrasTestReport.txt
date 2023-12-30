@@ -1,0 +1,10 @@
+Test case 1: {A=0.0, B=40.0, C=10.0}
+Test case 2: {A=0.0, B=40.0, C=10.0, D=60.0}
+Test case 3: {A=0.0, B=40.0, C=10.0, D=60.0}
+Test case 4: {B=0.0, C=35.0, D=20.0}
+Test case 5: {B=0.0, C=35.0, D=20.0}
+Test case 6: {B=30.0, C=0.0, D=50.0}
+Test case 7: {B=30.0, C=0.0, D=50.0}
+Test case 8: {B=45.0, C=15.0, D=0.0}
+Test case 9: {B=45.0, C=15.0, D=0.0}
+Test case 10: {}

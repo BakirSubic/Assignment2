@@ -1,0 +1,6 @@
+A to B = 14.0
+A to C = 5.0
+B to A = 32.0
+B to C = 36.0
+C to A = 41.0
+C to B = 9.0

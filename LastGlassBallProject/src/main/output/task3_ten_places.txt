@@ -1,0 +1,306 @@
+No path from B to C
+No path from B to D
+No path from B to E
+No path from B to F
+No path from B to G
+No path from B to H
+No path from B to I
+No path from B to J
+No path from B to K
+No path from B to L
+No path from B to M
+No path from B to N
+No path from B to O
+No path from B to P
+No path from B to Q
+No path from B to R
+No path from B to S
+C to B = 175.0
+C to D = 32.0
+C to E = 76.0
+C to F = 106.0
+C to G = 127.0
+C to H = 16.0
+C to I = 115.0
+C to J = 108.0
+C to K = 64.0
+C to L = 165.0
+C to M = 131.0
+C to N = 94.0
+C to O = 82.0
+C to P = 208.0
+C to Q = 256.0
+C to R = 103.0
+C to S = 118.0
+D to B = 143.0
+D to C = 86.0
+D to E = 44.0
+D to F = 139.0
+D to G = 95.0
+D to H = 102.0
+D to I = 135.0
+D to J = 141.0
+D to K = 97.0
+D to L = 133.0
+D to M = 99.0
+D to N = 62.0
+D to O = 139.0
+D to P = 176.0
+D to Q = 224.0
+D to R = 71.0
+D to S = 86.0
+E to B = 99.0
+E to C = 42.0
+E to D = 74.0
+E to F = 95.0
+E to G = 51.0
+E to H = 58.0
+E to I = 91.0
+E to J = 97.0
+E to K = 53.0
+E to L = 89.0
+E to M = 55.0
+E to N = 18.0
+E to O = 95.0
+E to P = 132.0
+E to Q = 180.0
+E to R = 27.0
+E to S = 42.0
+F to B = 185.0
+F to C = 13.0
+F to D = 45.0
+F to E = 89.0
+F to G = 140.0
+F to H = 29.0
+F to I = 42.0
+F to J = 121.0
+F to K = 77.0
+F to L = 141.0
+F to M = 144.0
+F to N = 107.0
+F to O = 95.0
+F to P = 184.0
+F to Q = 232.0
+F to R = 116.0
+F to S = 94.0
+G to B = 141.0
+G to C = 2.0
+G to D = 34.0
+G to E = 78.0
+G to F = 108.0
+G to H = 18.0
+G to I = 117.0
+G to J = 110.0
+G to K = 66.0
+G to L = 167.0
+G to M = 133.0
+G to N = 60.0
+G to O = 84.0
+G to P = 210.0
+G to Q = 258.0
+G to R = 105.0
+G to S = 120.0
+H to B = 284.0
+H to C = 109.0
+H to D = 141.0
+H to E = 185.0
+H to F = 212.0
+H to G = 236.0
+H to I = 99.0
+H to J = 173.0
+H to K = 173.0
+H to L = 274.0
+H to M = 128.0
+H to N = 203.0
+H to O = 66.0
+H to P = 317.0
+H to Q = 365.0
+H to R = 94.0
+H to S = 227.0
+I to B = 331.0
+I to C = 156.0
+I to D = 188.0
+I to E = 232.0
+I to F = 259.0
+I to G = 283.0
+I to H = 47.0
+I to J = 220.0
+I to K = 220.0
+I to L = 321.0
+I to M = 175.0
+I to N = 250.0
+I to O = 87.0
+I to P = 364.0
+I to Q = 412.0
+I to R = 141.0
+I to S = 274.0
+J to B = 137.0
+J to C = 30.0
+J to D = 62.0
+J to E = 38.0
+J to F = 39.0
+J to G = 89.0
+J to H = 46.0
+J to I = 81.0
+J to K = 91.0
+J to L = 127.0
+J to M = 49.0
+J to N = 56.0
+J to O = 83.0
+J to P = 170.0
+J to Q = 218.0
+J to R = 15.0
+J to S = 80.0
+K to B = 181.0
+K to C = 55.0
+K to D = 87.0
+K to E = 82.0
+K to F = 42.0
+K to G = 133.0
+K to H = 71.0
+K to I = 84.0
+K to J = 44.0
+K to L = 171.0
+K to M = 93.0
+K to N = 100.0
+K to O = 127.0
+K to P = 214.0
+K to Q = 262.0
+K to R = 59.0
+K to S = 124.0
+L to B = 44.0
+L to C = 14.0
+L to D = 46.0
+L to E = 90.0
+L to F = 120.0
+L to G = 141.0
+L to H = 30.0
+L to I = 129.0
+L to J = 122.0
+L to K = 78.0
+L to M = 145.0
+L to N = 108.0
+L to O = 96.0
+L to P = 43.0
+L to Q = 91.0
+L to R = 117.0
+L to S = 132.0
+M to B = 182.0
+M to C = 75.0
+M to D = 107.0
+M to E = 83.0
+M to F = 84.0
+M to G = 134.0
+M to H = 91.0
+M to I = 126.0
+M to J = 45.0
+M to K = 136.0
+M to L = 172.0
+M to N = 101.0
+M to O = 128.0
+M to P = 215.0
+M to Q = 263.0
+M to R = 60.0
+M to S = 125.0
+N to B = 81.0
+No path from N to C
+No path from N to D
+No path from N to E
+No path from N to F
+No path from N to G
+No path from N to H
+No path from N to I
+No path from N to J
+No path from N to K
+No path from N to L
+No path from N to M
+No path from N to O
+No path from N to P
+No path from N to Q
+No path from N to R
+No path from N to S
+O to B = 364.0
+O to C = 189.0
+O to D = 221.0
+O to E = 265.0
+O to F = 292.0
+O to G = 316.0
+O to H = 80.0
+O to I = 33.0
+O to J = 253.0
+O to K = 253.0
+O to L = 354.0
+O to M = 208.0
+O to N = 283.0
+O to P = 397.0
+O to Q = 445.0
+O to R = 174.0
+O to S = 307.0
+P to B = 24.0
+P to C = 116.0
+P to D = 30.0
+P to E = 74.0
+P to F = 105.0
+P to G = 125.0
+P to H = 132.0
+P to I = 147.0
+P to J = 107.0
+P to K = 63.0
+P to L = 163.0
+P to M = 129.0
+P to N = 92.0
+P to O = 169.0
+P to Q = 48.0
+P to R = 101.0
+P to S = 116.0
+Q to B = 126.0
+Q to C = 70.0
+Q to D = 102.0
+Q to E = 97.0
+Q to F = 57.0
+Q to G = 148.0
+Q to H = 86.0
+Q to I = 99.0
+Q to J = 59.0
+Q to K = 15.0
+Q to L = 186.0
+Q to M = 108.0
+Q to N = 45.0
+Q to O = 142.0
+Q to P = 229.0
+Q to R = 74.0
+Q to S = 139.0
+R to B = 190.0
+R to C = 15.0
+R to D = 47.0
+R to E = 91.0
+R to F = 118.0
+R to G = 142.0
+R to H = 31.0
+R to I = 101.0
+R to J = 79.0
+R to K = 79.0
+R to L = 180.0
+R to M = 34.0
+R to N = 109.0
+R to O = 68.0
+R to P = 223.0
+R to Q = 271.0
+R to S = 133.0
+S to B = 91.0
+S to C = 61.0
+S to D = 32.0
+S to E = 76.0
+S to F = 53.0
+S to G = 127.0
+S to H = 68.0
+S to I = 94.0
+S to J = 55.0
+S to K = 11.0
+S to L = 47.0
+S to M = 104.0
+S to N = 94.0
+S to O = 61.0
+S to P = 90.0
+S to Q = 138.0
+S to R = 70.0
